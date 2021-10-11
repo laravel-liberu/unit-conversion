@@ -1,0 +1,35 @@
+{
+    "name": "laravel-enso/unit-conversion",
+    "description": "Unit conversion for Laravel Enso",
+    "keywords": [
+        "laravel-enso",
+        "unit-conversion"
+    ],
+    "homepage": "https://github.com/laravel-enso/unit-conversion",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Ocneanu",
+            "email": "aocneanu@gmail.com",
+            "homepage": "https://laravel-enso.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Mihai Ocneanu",
+            "email": "mihai.ocneanu@gmail.com",
+            "homepage": "https://laravel-enso.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "laravel-enso/enums": "^2.0",
+        "laravel/framework": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelEnso\\UnitConversion\\": "src/"
+        }
+    }
+}
