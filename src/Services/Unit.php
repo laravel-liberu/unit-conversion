@@ -12,7 +12,7 @@ use ReflectionClass;
 
 abstract class Unit implements Contract
 {
-    public function __construct(private int | float $value)
+    public function __construct(private string $value)
     {
     }
 
@@ -37,7 +37,7 @@ abstract class Unit implements Contract
         return Conversion::handle($unit, static::class);
     }
 
-    private static function fromExpression(string $expression): int | float
+    private static function fromExpression(string $expression): string
     {
         Expression::validate($expression);
 
