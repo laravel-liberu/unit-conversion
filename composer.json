@@ -1,30 +1,30 @@
 {
-    "name": "laravel-enso/unit-conversion",
+    "name": "cgdsoftware/unit-conversion",
     "description": "Unit conversion for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "unit-conversion"
     ],
-    "homepage": "https://github.com/laravel-enso/unit-conversion",
+    "homepage": "https://github.com/cgdsoftware/unit-conversion",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         },
         {
             "name": "Mihai Ocneanu",
             "email": "mihai.ocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": ">=8.0",
-        "laravel-enso/enums": "^2.0",
+        "cgdsoftware/enums": "^2.0",
         "laravel/framework": "^9.0"
     },
     "autoload": {
