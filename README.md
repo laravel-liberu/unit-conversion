@@ -6,9 +6,9 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/unit-conversion/downloads)](https://packagist.org/packages/laravel-enso/unit-conversion)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/unit-conversion/version)](https://packagist.org/packages/laravel-enso/unit-conversion)
 
-Unit converter utility classes for [Laravel Enso](https://github.com/laravel-enso/Enso).
+Unit converter utility classes for [Laravel Liberu](https://github.com/laravel-enso/Liberu).
 
-This package can not work independently of the [Enso](https://github.com/laravel-enso/Enso) ecosystem.
+This package can not work independently of the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
 
 For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
 
