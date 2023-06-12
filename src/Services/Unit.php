@@ -12,7 +12,7 @@ use ReflectionClass;
 
 abstract class Unit implements Contract
 {
-    public function __construct(private string $value)
+    public function __construct(private readonly string $value)
     {
     }
 
@@ -64,7 +64,7 @@ abstract class Unit implements Contract
         $toNamespace = (new ReflectionClass(static::class))->getNamespaceName();
 
         if ($fromNamespace !== $toNamespace) {
-            throw ConversionException::incompatible($unit::symbol(), static::symbol());
+            throw ConversionException::incompatible($unit::symbol());
         }
     }
 }
