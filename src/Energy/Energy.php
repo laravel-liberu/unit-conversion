@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Energy;
+namespace LaravelLiberu\UnitConversion\Energy;
 
-use LaravelEnso\UnitConversion\Services\Converter;
+use LaravelLiberu\UnitConversion\Services\Converter;
 
 class Energy extends Converter
 {

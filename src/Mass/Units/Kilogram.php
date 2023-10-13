@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Mass\Units;
+namespace LaravelLiberu\UnitConversion\Mass\Units;
 
-use LaravelEnso\UnitConversion\Services\Unit;
+use LaravelLiberu\UnitConversion\Services\Unit;
 
 class Kilogram extends Unit
 {

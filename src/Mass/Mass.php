@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Mass;
+namespace LaravelLiberu\UnitConversion\Mass;
 
-use LaravelEnso\UnitConversion\Services\Converter;
+use LaravelLiberu\UnitConversion\Services\Converter;
 
 class Mass extends Converter
 {

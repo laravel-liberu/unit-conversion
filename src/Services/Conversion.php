@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Services;
+namespace LaravelLiberu\UnitConversion\Services;
 
-use LaravelEnso\Helpers\Services\Decimals;
-use LaravelEnso\UnitConversion\Contracts\Unit;
+use LaravelLiberu\Helpers\Services\Decimals;
+use LaravelLiberu\UnitConversion\Contracts\Unit;
 
 class Conversion
 {

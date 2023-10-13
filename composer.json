@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\UnitConversion\\": "src/"
+            "LaravelLiberu\\UnitConversion\\": "src/"
         }
     },
     "require-dev": {

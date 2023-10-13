@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Contracts;
+namespace LaravelLiberu\UnitConversion\Contracts;
 
 interface Unit
 {

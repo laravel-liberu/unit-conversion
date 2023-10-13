@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Energy\Units;
+namespace LaravelLiberu\UnitConversion\Energy\Units;
 
-use LaravelEnso\UnitConversion\Services\Unit;
+use LaravelLiberu\UnitConversion\Services\Unit;
 
 class Kilocalorie extends Unit
 {

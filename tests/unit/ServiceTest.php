@@ -1,12 +1,12 @@
 <?php
 
-use LaravelEnso\Helpers\Services\Decimals;
-use LaravelEnso\UnitConversion\Exceptions\Expression;
-use LaravelEnso\UnitConversion\Exceptions\Unit;
-use LaravelEnso\UnitConversion\Length\Length;
-use LaravelEnso\UnitConversion\Length\Units\Meter;
-use LaravelEnso\UnitConversion\Length\Units\Millimeter;
-use LaravelEnso\UnitConversion\Mass\Units\Gram;
+use LaravelLiberu\Helpers\Services\Decimals;
+use LaravelLiberu\UnitConversion\Exceptions\Expression;
+use LaravelLiberu\UnitConversion\Exceptions\Unit;
+use LaravelLiberu\UnitConversion\Length\Length;
+use LaravelLiberu\UnitConversion\Length\Units\Meter;
+use LaravelLiberu\UnitConversion\Length\Units\Millimeter;
+use LaravelLiberu\UnitConversion\Mass\Units\Gram;
 use Tests\TestCase;
 
 class ServiceTest extends TestCase

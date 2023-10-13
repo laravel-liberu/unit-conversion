@@ -1,13 +1,13 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Services;
+namespace LaravelLiberu\UnitConversion\Services;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;
-use LaravelEnso\UnitConversion\Contracts\Unit as Contract;
-use LaravelEnso\UnitConversion\Exceptions\Conversion as ConversionException;
-use LaravelEnso\UnitConversion\Exceptions\Unit as UnitException;
+use LaravelLiberu\UnitConversion\Contracts\Unit as Contract;
+use LaravelLiberu\UnitConversion\Exceptions\Conversion as ConversionException;
+use LaravelLiberu\UnitConversion\Exceptions\Unit as UnitException;
 use ReflectionClass;
 
 abstract class Unit implements Contract

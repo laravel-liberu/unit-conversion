@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Length\Units;
+namespace LaravelLiberu\UnitConversion\Length\Units;
 
-use LaravelEnso\UnitConversion\Services\Unit;
+use LaravelLiberu\UnitConversion\Services\Unit;
 
 class Centimeter extends Unit
 {

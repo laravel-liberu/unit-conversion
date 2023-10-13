@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Services;
+namespace LaravelLiberu\UnitConversion\Services;
 
-use LaravelEnso\UnitConversion\Exceptions\Expression as Exception;
+use LaravelLiberu\UnitConversion\Exceptions\Expression as Exception;
 
 class Expression
 {

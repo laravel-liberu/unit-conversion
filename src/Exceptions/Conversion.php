@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\UnitConversion\Exceptions;
+namespace LaravelLiberu\UnitConversion\Exceptions;
 
 use Exception;
 
