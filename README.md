@@ -1,14 +1,14 @@
 # Unit Conversion
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a7b6163dff4943c68f3df62ff473f208)](https://www.codacy.com/gh/laravel-enso/unit-conversion?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-enso/unit-conversion&amp;utm_campaign=Badge_Grade) 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a7b6163dff4943c68f3df62ff473f208)](https://www.codacy.com/gh/laravel-liberu/unit-conversion?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-liberu/unit-conversion&amp;utm_campaign=Badge_Grade) 
 [![StyleCI](https://github.styleci.io/repos/85466970/shield?branch=master)](https://github.styleci.io/repos/85466970)
-[![License](https://poser.pugx.org/laravel-enso/unit-conversion/license)](https://packagist.org/packages/laravel-enso/unit-conversion)
-[![Total Downloads](https://poser.pugx.org/laravel-enso/unit-conversion/downloads)](https://packagist.org/packages/laravel-enso/unit-conversion)
-[![Latest Stable Version](https://poser.pugx.org/laravel-enso/unit-conversion/version)](https://packagist.org/packages/laravel-enso/unit-conversion)
+[![License](https://poser.pugx.org/laravel-liberu/unit-conversion/license)](https://packagist.org/packages/laravel-liberu/unit-conversion)
+[![Total Downloads](https://poser.pugx.org/laravel-liberu/unit-conversion/downloads)](https://packagist.org/packages/laravel-liberu/unit-conversion)
+[![Latest Stable Version](https://poser.pugx.org/laravel-liberu/unit-conversion/version)](https://packagist.org/packages/laravel-liberu/unit-conversion)
 
-Unit converter utility classes for [Laravel Liberu](https://github.com/laravel-enso/Liberu).
+Unit converter utility classes for [Laravel Liberu](https://github.com/laravel-liberu/Liberu).
 
-This package can not work independently of the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
+This package can not work independently of the [Liberu](https://github.com/laravel-liberu/Liberu) ecosystem.
 
 For live examples and demos, you may visit [liberu.co.uk](https://www.liberu.co.uk)
 
